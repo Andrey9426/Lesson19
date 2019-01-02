@@ -1,0 +1,7 @@
+{
+  "firstName" : "Ivan",
+  "lastName" : "Stepanow",
+  "age" : 30,
+  "newField" : null,
+  "student" : false
+}
